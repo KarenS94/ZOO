@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZOO", "ZOO\ZOO.csproj", "{CFECE9C8-57FA-4643-AB04-DD67DA2D86A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EJERCICIO_GESTIONZOO", "EJERCICIO_GESTIONZOO", "{C4606980-AF77-41F9-B7BB-407179307C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFECE9C8-57FA-4643-AB04-DD67DA2D86A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFECE9C8-57FA-4643-AB04-DD67DA2D86A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFECE9C8-57FA-4643-AB04-DD67DA2D86A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFECE9C8-57FA-4643-AB04-DD67DA2D86A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CFECE9C8-57FA-4643-AB04-DD67DA2D86A8} = {C4606980-AF77-41F9-B7BB-407179307C85}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04279CB0-2BA8-444B-BB28-AEEF37611A40}
+	EndGlobalSection
+EndGlobal
